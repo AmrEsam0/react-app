@@ -1,10 +1,10 @@
 import "./App.css";
-import Form from "./components/Form";
+import FragmentDemo from "./components/Fragment";
 
 function App() {
 	return (
 		<div className="App">
-			<Form />
+			<FragmentDemo />
 		</div>
 	);
 }
