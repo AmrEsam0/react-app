@@ -1,10 +1,10 @@
 import "./App.css";
-import FragmentDemo from "./components/Fragment";
+import RefsDemo from "./components/RefsDemo";
 
 function App() {
 	return (
 		<div className="App">
-			<FragmentDemo />
+			<RefsDemo />
 		</div>
 	);
 }
